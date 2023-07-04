@@ -1,2 +1,2 @@
 # Zomato_Data_EDA
-This analysis includes data only of bengaluru city and the aim is to derive meaningful insights from the existing data .
+The exploratory data analysis (EDA) on Zomato data was specifically done for Bengaluru city. To enhance comprehension, I employed interactive data visualization techniques utilizing matplotlib and plotly. Furthermore, I performed geographical analysis using geopy. Finally, a word count analysis was conducted as a concluding step.
